@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Deploying a 4 Tier Mailing Web Application on AWS 👨🏼‍💻
+# 👨🏼‍💻 Deploying a 4 Tier Mailing Web Application on AWS
 ![4TierAppArchitecture!](https://github.com/awanmbandi/aws-real-world-projects/blob/four-tier-mailing-app-project/prod-env-project-architecture.png)
 
 ## 
